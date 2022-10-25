@@ -102,7 +102,7 @@ I created a pivot table to quickly calculate the total number of applicants rece
 
 Rows = months and Values = id 
 
-![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
+![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/First_answer.png)
 
 #### Second question to be answered:
 
