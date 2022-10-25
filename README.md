@@ -115,7 +115,7 @@ I used the min function to get which month had the least number of applicants an
 
 ![second answer](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Second%20answer.png)
 
-#### Third question to be answered 
+#### Third question to be answered:
 
 What was the average number of applications received per month?
 
