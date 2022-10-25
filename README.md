@@ -102,7 +102,7 @@ I created a pivot table to quickly calculate the total number of applicants rece
 
 Rows = months and Values = id 
 
-![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/First_answer.png)
+![first answer](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/First_answer.png)
 
 #### Second question to be answered:
 
@@ -110,7 +110,7 @@ Which months had the least and greatest number of total applications received?
 
 I used the min function to get which month had the least number of applicants and the max function to get the month with the greatest number of total applicants
 
-![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Second%20answer.png)
+![second answer](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Second%20answer.png)
 
 #### Third question to be answered 
 
@@ -118,7 +118,8 @@ What was the average number of applications received per month?
 
 We used the average function to get the average number of applicants received per month.
 
-![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Third%20answer.png)
+![third answer](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Third%20answer.png)
 
 ## SUPPORTING VISUALIZATION AND KEY FINDINGING 
 
+![Applicants per month](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Number%20of%20applicants%20per%20month.png)
