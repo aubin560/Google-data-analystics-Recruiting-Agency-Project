@@ -94,10 +94,31 @@ No data manipulation in order to answer the questions that have been asked.
 
 ## SUMMARY OF THE ANALYSIS
 
-First question to be answered:
+####  First question to be answered:
 
 What was the total number of applications received per month in 2019?
 
 I created a pivot table to quickly calculate the total number of applicants received per month.
 
 Rows = months and Values = id 
+
+![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
+
+#### Second question to be answered:
+
+Which months had the least and greatest number of total applications received? 
+
+I used the min function to get which month had the least number of applicants and the max function to get the month with the greatest number of total applicants
+
+![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
+
+#### Third question to be answered 
+
+What was the average number of applications received per month?
+
+We used the average function to get the average number of applicants received per month.
+
+![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
+
+## SUPPORTING VISUALIZATION AND KEY FINDINGING 
+
