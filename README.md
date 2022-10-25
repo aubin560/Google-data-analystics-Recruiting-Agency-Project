@@ -21,7 +21,7 @@ Insights from these questions will help the agency to summarize the job applicat
 ## DESCRIPTION OF DATA SOURCE
 The agency’s data contains information about all of the data analytics job applications received in 2019. The data includes the following column headers: Applicant ID, Date, Job Title, Job Location, Hired, and Easy Apply. Below is a description of each column header and sample values.
 
-![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/data%20description.png)
+![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
 
 ## DATA CLEANING DOCUMENTATION AND MANIPULATIONS
 #### Data cleaning verification checklist 
