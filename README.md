@@ -118,7 +118,7 @@ What was the average number of applications received per month?
 
 We used the average function to get the average number of applicants received per month.
 
-![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
+![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Third%20answer.png)
 
 ## SUPPORTING VISUALIZATION AND KEY FINDINGING 
 
