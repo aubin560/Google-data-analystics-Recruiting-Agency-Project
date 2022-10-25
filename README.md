@@ -89,3 +89,15 @@ The agency’s data contains information about all of the data analytics job app
     <td>My data make sense to answer the business question. </td>
   </tr>
 </table>
+
+No data manipulation in order to answer the questions that have been asked.
+
+## SUMMARY OF THE ANALYSIS
+
+First question to be answered:
+
+What was the total number of applications received per month in 2019?
+
+I created a pivot table to quickly calculate the total number of applicants received per month.
+
+Rows = months and Values = id 
