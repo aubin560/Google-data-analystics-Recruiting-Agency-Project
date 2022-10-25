@@ -12,10 +12,13 @@ The agency has asked your team to optimize its online application process. Your 
 To do this, you’ll work with a spreadsheet. You’ll use spreadsheet functions to make calculations based on your data and create a custom data table to summarize your results. 
 
 ## BUSINESS TASK (ASK PHASE)
+
 The agency has asked my team to optimize the online application process. The purpose of the analysis was to discover information about these questions:
+
 -	What was the total number of applications received per month in 2019?
 -	Which months had the least and greatest number of total applications received? 
 -	What was the average number of applications received per month?
+
 Insights from these questions will help the agency to summarize the job application data then the summary will enable stakeholders to take some data-driven-decisions. 
 
 ## DESCRIPTION OF DATA SOURCE (PREPARE PHASE)
