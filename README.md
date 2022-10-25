@@ -110,7 +110,7 @@ Which months had the least and greatest number of total applications received?
 
 I used the min function to get which month had the least number of applicants and the max function to get the month with the greatest number of total applicants
 
-![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
+![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Second%20answer.png)
 
 #### Third question to be answered 
 
