@@ -1,7 +1,7 @@
 ![Recruiting agency](https://github.com/aubin560/recruiting_agency_project/blob/main/Recruiting_Agency_Project%20(1).png)
 
 ## SCENARIO
-Let’s assume that I am a junior data analyst at a recruiting agency. This recruiting agency helps all sorts of companies find skilled people to fill open data analytics jobs. The agency has collected data about job applications for opportunities posted on its website for the year 2019. 
+Let’s assume that I am a junior data analyst at a recruiting agency. This recruiting agency helps all sorts of companies find skilled people to fill data analytics jobs. The agency has collected data about job applications for opportunities posted on its website for the year 2019. 
 
 The agency has asked your team to optimize its online application process. Your assignment is to summarize the agency’s job application data. In particular, you want to answer the following questions: 
 
@@ -11,19 +11,19 @@ The agency has asked your team to optimize its online application process. Your 
 
 To do this, you’ll work with a spreadsheet. You’ll use spreadsheet functions to make calculations based on your data and create a custom data table to summarize your results. 
 
-## BUSINESS TASK
+## BUSINESS TASK (ASK PHASE)
 The agency has asked my team to optimize the online application process. The purpose of the analysis was to discover information about these questions:
 -	What was the total number of applications received per month in 2019?
 -	Which months had the least and greatest number of total applications received? 
 -	What was the average number of applications received per month?
 Insights from these questions will help the agency to summarize the job application data then the summary will enable stakeholders to take some data-driven-decisions. 
 
-## DESCRIPTION OF DATA SOURCE
+## DESCRIPTION OF DATA SOURCE (PREPARE PHASE)
 The agency’s data contains information about all of the data analytics job applications received in 2019. The data includes the following column headers: Applicant ID, Date, Job Title, Job Location, Hired, and Easy Apply. Below is a description of each column header and sample values.
 
 ![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/data%20description.png)
 
-## DATA CLEANING DOCUMENTATION AND MANIPULATIONS
+## DATA CLEANING DOCUMENTATION AND MANIPULATIONS (PROCESS PHASE)
 #### Data cleaning verification checklist 
 
 <table>
@@ -92,7 +92,7 @@ The agency’s data contains information about all of the data analytics job app
 
 No data manipulation in order to answer the questions that have been asked.
 
-## SUMMARY OF THE ANALYSIS
+## SUMMARY OF THE ANALYSIS (ANALYSE PHASE)
 
 ####  First question to be answered:
 
@@ -120,13 +120,13 @@ We used the average function to get the average number of applicants received pe
 
 ![third answer](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Third%20answer.png)
 
-## SUPPORTING VISUALIZATION AND KEY FINDINGING 
+## SUPPORTING VISUALIZATION AND KEY FINDINGING (SHARE PHASE)
 
 ![Applicants per month](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Number%20of%20applicants%20per%20month.png)
 
 ![month with the least and the greatest number of applicants](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Month%20with%20the%20least%20and%20the%20greatest%20number%20of%20applicants.png)
 
-## RECOMMENDATION BASED ON THE ANALYSIS
+## RECOMMENDATION BASED ON THE ANALYSIS (ACT PHASE)
 
 Findings from the analysis reveal that February was the month with the least number of applicants and July the greatest number of applicants, the agency can devote more of its advertising budget to February and less to July. 
 
