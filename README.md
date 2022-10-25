@@ -123,3 +123,10 @@ We used the average function to get the average number of applicants received pe
 ## SUPPORTING VISUALIZATION AND KEY FINDINGING 
 
 ![Applicants per month](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Number%20of%20applicants%20per%20month.png)
+
+![month with the least and the greatest number of applicants](https://github.com/aubin560/recruiting_agency_project/blob/main/charts/Month%20with%20the%20least%20and%20the%20greatest%20number%20of%20applicants.png)
+
+## RECOMMENDATION BASED ON THE ANALYSIS
+
+Findings from the analysis reveal that February was the month with the least number of applicants and July the greatest number of applicants, the agency can devote more of its advertising budget to February and less to July. 
+
