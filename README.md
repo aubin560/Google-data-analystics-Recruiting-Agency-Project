@@ -41,7 +41,7 @@ The agency’s data contains information about all of the data analytics job app
     <td>Misspelled words</td>
     <td>Filter</td>
     <td>
-      I filtered the hired column and for easy_apply to check if the words were well spelled. We have only two data points that are: True or false. /ln
+      I filtered the hired column and for easy_apply to check if the words were well spelled. We have only two data points that are: True or false. 
       I filtered the months column to check if we either or not the months of the year were well spelled. And I found no misspelled words. 
     </td>
   </tr>
