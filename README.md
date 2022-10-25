@@ -23,3 +23,6 @@ The agency’s data contains information about all of the data analytics job app
 
 ![data description](https://github.com/aubin560/recruiting_agency_project/blob/main/data%20description.png)
 
+## DATA CLEANING DOCUMENTATION AND MANIPULATIONS
+####Data cleaning verification checklist 
+
