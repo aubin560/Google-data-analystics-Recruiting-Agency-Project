@@ -28,18 +28,64 @@ The agency’s data contains information about all of the data analytics job app
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>COMMON PROBLEMS</th>
+    <th>TOOL USED</th>
+    <th>OBSERVATION</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Null data</td>
+    <td>Conditional formatting and filter</td>
+    <td>I found no missing value in the dataset</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Misspelled words</td>
+    <td>Filter</td>
+    <td>
+      <p>I filtered the hired column and for easy_apply to check if the words were well spelled. We have only two data points that are: True or false. </p>
+
+      <p>I filtered the months column to check if we either or not the months of the year were well spelled. And I found no misspelled words. </p> </td>
+  </tr>
+  <tr>
+    <td>Mistyped numbers</td>
+    <td>Sort and filter</td>
+    <td>I don’t have any mistyped number </td>
+  </tr>
+  <tr>
+    <td>Extra spaces and characters</td>
+    <td>Trim function</td>
+    <td>I removed extra spaces in all the dataset </td>
+  </tr>
+  <tr>
+    <td>Duplicates</td>
+    <td>Remove duplicate function</td>
+    <td>I found no duplicated data </td>
+  </tr>
+  <tr>
+    <td>Mismatched data types</td>
+    <td>------</td>
+    <td>I corrected data types</td>
+  </tr>
+  <tr>
+    <td>Messy(inconsistent) string</td>
+    <td>------</td>
+    <td>No inconsistent string</td>
+  </tr>
+  
+  <tr>
+    <td>Messy (inconsistent) data formats</td>
+    <td>------</td>
+    <td>No inconsistent data format</td>
+  </tr>
+  
+   <tr>
+    <td>Misleading variable labels (columns)</td>
+    <td>------</td>
+    <td>No misleading variable </td>
+  </tr>
+  
+  <tr>
+    <td>Business Logic</td>
+    <td>------</td>
+    <td>My data make sense to answer the business question. </td>
   </tr>
 </table>
